@@ -16,7 +16,7 @@ docker-compose exec php　bash
 
 composer install
 
-.env ファイル設定、環境変数を以下のように変更
+.env ファイル設定、環境変数を以下のように変更  
 DB_CONNECTION=mysql  
 DB_HOST=mysql  
 DB_PORT=3306  
