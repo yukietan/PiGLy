@@ -50,7 +50,7 @@ MySQL バージョン: 8.0.26
 
 phpMyAdmin : http://localhost:8080
 
-テストユーザーログイン情報 : 
+テストユーザーログイン情報 :  
 メールアドレス: test@example.com  
 パスワード: password  
 シーディングはエラーの為未実行  
