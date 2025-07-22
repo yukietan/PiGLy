@@ -42,7 +42,7 @@ MySQL バージョン: 8.0.26
 
 ## ER図 
 
-![ER図](er-pigly.png)
+![ER図](public/image/er-pigly.png)
 
 ## URL
 
