@@ -40,7 +40,9 @@ Laravel バージョン: 8.83.29
 
 MySQL バージョン: 8.0.26
 
-## ER図 未作成
+## ER図 
+
+![ER図](er-pigly.png)
 
 ## URL
 
