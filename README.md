@@ -17,11 +17,11 @@ docker-compose exec php　bash
 composer install
 
 .env ファイル設定、環境変数を以下のように変更
-DB_CONNECTION=mysql
-DB_HOST=mysql
-DB_PORT=3306
-DB_DATABASE=laravel_db
-DB_USERNAME=laravel_user
+DB_CONNECTION=mysql　　
+DB_HOST=mysql　　
+DB_PORT=3306　　
+DB_DATABASE=laravel_db　　
+DB_USERNAME=laravel_user　　
 DB_PASSWORD=laravel_pass
 
 php artisan key:generate
@@ -51,6 +51,6 @@ MySQL バージョン: 8.0.26
 phpMyAdmin : http://localhost:8080
 
 テストユーザーログイン情報 : 
-メールアドレス: test@example.com
-パスワード: password
+メールアドレス: test@example.com　　
+パスワード: password　　
 シーディングはエラーの為未実行
