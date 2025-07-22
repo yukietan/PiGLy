@@ -1,0 +1,53 @@
+header.header {
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-content: stretch;
+    align-items: center;
+    padding: 10px 20px;
+    border: 1px solid #E3DED9;
+    background-color: white;
+}
+
+.header__heading{
+    color: #e898db;
+    font-family:'Iowan Old Style','Palatino Linotype',
+        'URW Palladio L', P052,serif;
+}
+
+.weight-setting {
+    padding: 8px 12px;
+    border: 1px solid #a8a29c;
+    background-color: #F0F0F0;
+    color: #000;
+    text-decoration: none;
+    border-radius: 10px;
+    white-space: nowrap;
+}
+
+.header__btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.header__link {
+    padding: 8px 12px;
+    border: 1px solid #a8a29c;
+    background-color: #F0F0F0;
+    color: #000;
+    text-decoration: none;
+    border-radius: 10px;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.header__link:hover,
+.weight-setting:hover {
+    background-color: #e0e0e0;
+}
+
+html,
+body {
+    background-color: rgb(245, 241, 241);
+}

@@ -1,0 +1,13 @@
+body {
+    background: radial-gradient(at 0% 0%, #c6a0f4, transparent), radial-gradient(at 100% 0%, #FF9EBA, transparent), radial-gradient(at 0% 100%, #f7c8e6, transparent), radial-gradient(at 100% 100%, #eed9e8, transparent);
+        background-attachment: fixed;
+}
+
+.login-form__inner {
+    text-align: center;
+    padding: 20px;
+    max-width: 400px;
+    margin: 20px auto;
+    background-color: #fff;
+    border-radius: 8px;
+}
